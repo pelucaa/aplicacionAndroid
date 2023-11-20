@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ECommerce app</string>
+
+    <string name="first_slide">Elige tus productos</string>
+    <string name="second_slide">Entrega rápida</string>
+    <string name="third_slide">Buen servicio</string>
+
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras euismod, ante eu luctus consequat, est dolor molestie dolor, in cursus eros nisl vel diam. Mauris eu libero quis lorem fermentum mattis ac a nisl. Aliquam in turpis bibendum, cursus velit quis, elementum nisi.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
